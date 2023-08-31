@@ -2,3 +2,6 @@
     remote = data
 ['remote "data"']
     url = ssh://192.168.50.182/home/sunghun/control_version_test
+    user = sunghun
+    port = 22
+    password = 
